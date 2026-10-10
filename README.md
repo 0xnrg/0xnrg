@@ -1,4 +1,4 @@
-<h1 align="center">0xNRG <code>// 0xnrg</code></h1>
+<h1 align="center"><code>// 0xnrg</code></h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=39FF14&center=true&vCenter=true&lines=Offensive+Security;Penetration+Tester;Red+Team+%7C+Infra+%7C+Automation" />
 </p>
