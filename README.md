@@ -1,15 +1,15 @@
-<h1 align="center">Christopher Carlsson <code>// 0xnrg</code></h1>
+<h1 align="center">0xNRG <code>// 0xnrg</code></h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=39FF14&center=true&vCenter=true&lines=Offensive+Security;Penetration+Tester;Red+Team+%7C+Infra+%7C+Automation" />
 </p>
 
 ```bash
 $ whoami
-christopher-carlsson — Senior Cyber Security Consultant @ Alfa eCare
+0xNRG — Cyber Security Consultant @ Alfa eCare
 $ cat certs.txt
 HTB CPTS · CompTIA PenTest+
 $ ls ~/stack
-kali  burp  bloodhound  nmap  proxmox  wazuh  python  bash  powershell
+kali  burp  bloodhound  nmap  proxmox  wazuh  python  bash  powershell nxc
 ```
 
 <p align="center">
