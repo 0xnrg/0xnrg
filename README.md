@@ -6,10 +6,6 @@
 ```bash
 $ whoami
 0xNRG — Cyber Security Consultant @ Alfa eCare
-$ cat certs.txt
-HTB CPTS · CompTIA PenTest+
-$ ls ~/stack
-kali  burp  bloodhound  nmap  proxmox  wazuh  python  bash  powershell nxc
 ```
 
 <p align="center">
