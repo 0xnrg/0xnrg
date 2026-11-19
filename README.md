@@ -5,7 +5,7 @@
 
 ```bash
 $ whoami
-0xNRG — Cyber Security Consultant @ Alfa eCare
+0xNRG — Offensive Security Specialist @ Alfa eCare
 ```
 
 <p align="center">
